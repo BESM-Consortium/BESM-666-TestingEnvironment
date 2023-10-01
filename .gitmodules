@@ -1,0 +1,6 @@
+[submodule "third_party/riscv-gnu-toolchain"]
+	path = third_party/riscv-gnu-toolchain
+	url = https://github.com/riscv-collab/riscv-gnu-toolchain
+[submodule "third_party/riscv-tests"]
+	path = third_party/riscv-tests
+	url = https://github.com/riscv-software-src/riscv-tests
